@@ -1,4 +1,4 @@
-# 💻 Hello, I'm Amirhossein
+# 💻 Hi, I'm Amirhossein
 
 **Python Developer** | **Windows App Developer** | **Backend Enthusiast** | **Advanced Python Scriptor**
 
@@ -15,7 +15,7 @@ introduce()
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=Dtire&amp;theme=dark&amp;show_owner=true" alt="Dtire - Advanced Directory Scanner">
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhosin282&show_icons=true&theme=radical" alt="Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosin282&layout=compact&theme=radical" alt="Top Langs"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhosin282&show_icons=true&theme=radical" alt="Stats"> <br><br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosin282&layout=compact&theme=radical" alt="Top Langs"> </p>
 🌱 Currently Learning
 Backend Development (Django/Flask)
 
