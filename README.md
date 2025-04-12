@@ -1,6 +1,6 @@
 # 💻 Hello, I'm Amirhossein
 
-**Python Developer** | **Windows App Developer** | **Backend Enthusiast**
+**Python Developer** | **Windows App Developer** | **Backend Enthusiast** | **Advanced Python Scriptor**
 
 ```python
 def introduce():
@@ -18,8 +18,6 @@ introduce()
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Amirhosin282&show_icons=true&theme=radical" alt="Stats"> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosin282&layout=compact&theme=radical" alt="Top Langs"> </p>
 🌱 Currently Learning
 Backend Development (Django/Flask)
-
-Advanced Python Scripting
 
 Web Automation Techniques
 
