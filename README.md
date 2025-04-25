@@ -29,7 +29,7 @@ introduce()
 
 ## 🌱 Currently Learning
 
-### Backend Development (<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> /<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> )
+### Backend Development ( Django / <p color = #11111> Flask </p> )
 
 ### Web Automation Techniques
 
