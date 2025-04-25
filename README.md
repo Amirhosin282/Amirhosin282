@@ -34,7 +34,7 @@ introduce()
 ### Web Automation Techniques
 
 ## 📫 How to Reach Me
-<p align="left"> <a href="mailto:amirhosinasdpwr@gmail.com"> <br> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/amirhosein-asadpur-867a2827b/"> <br> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <br> <a href="https://instagram.com/amirhosin_282"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> <br> </a>  <a href="https://t.me/Amirhosin282"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> </p>
+<p align="left"> <a href="mailto:amirhosinasdpwr@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://www.linkedin.com/in/amirhosein-asadpur-867a2827b/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://instagram.com/amirhosin_282"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"> </a>  <a href="https://t.me/Amirhosin282"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a> </p>
 
 <br>
 
