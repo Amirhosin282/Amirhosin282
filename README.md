@@ -29,7 +29,7 @@ introduce()
 
 ## 🌱 Currently Learning
 
-### Backend Development ( Django / <p color = #11111> Flask </p> )
+### Backend Development ( Django / Flask )
 
 ### Web Automation Techniques
 
