@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://github.com/Amirhosin282/Amirhosin282/blob/main/assets/header-image.jpg?raw=true](https://github.com/Amirhosin282/Amirhosin282/blob/main/header.png)" width="100%" alt="Header Image">
+  <img src="[https://github.com/Amirhosin282/Amirhosin282/blob/main/header.png?raw=true]" width="100%" alt="Header Image">
 </div>
 
 
