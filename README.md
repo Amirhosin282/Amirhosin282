@@ -15,19 +15,7 @@ def introduce():
 introduce()
 ```
 ## 🛠️ Technical Skills
-<p align="left"> <a href = 'https://www.python.org/' > <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>  <a href = 'https://www.selenium.dev/'> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> </a> <a href = 'https://docs.python.org/3/library/tkinter.html'> <img src="https://img.shields.io/badge/Tkinter-EE4C2C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"> </a> <a href = 'https://doc.qt.io/qtforpython-6/'> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"> </a> <a href = 'https://git-scm.com/'> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </a> <a href = 'https://github.blog/'> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="#">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CMD-5D4EE2?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD">
-  </a>
+<p align="left"> <a href = 'https://www.python.org/' > <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </a>  <a href = 'https://www.selenium.dev/'> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> </a> <a href = 'https://docs.python.org/3/library/tkinter.html'> <img src="https://img.shields.io/badge/Tkinter-EE4C2C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"> </a> <a href = 'https://doc.qt.io/qtforpython-6/'> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"> </a> <a href = 'https://git-scm.com/'> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> </a> <a href = 'https://github.blog/'> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <a href="#"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a> <a href="#"> <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"> </a> <a href="#"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"> </a> <a href="#"> <img src="https://img.shields.io/badge/CMD-5D4EE2?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD"> </a>
 </p>
 
 <br>
