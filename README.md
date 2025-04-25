@@ -17,6 +17,8 @@ introduce()
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> </p>
 
+<p align="left"> <!-- زبان‌ها و فریمورک‌ها --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"> <!-- ابزارهای توسعه --> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"> </p>
+
 ## 🚀 Featured Projects
 <br>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=Dtire&amp;theme=dark&amp;show_owner=true" alt="Dtire - Advanced Directory Scanner">
