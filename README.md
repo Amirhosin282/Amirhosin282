@@ -25,11 +25,9 @@ introduce()
 <a href = 'https://docs.djangoproject.com/en/5.2/'> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a> <a href = 'https://flask.palletsprojects.com/en/stable/'> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> </a> </p>
 
 ## 🚀 Featured Projects
-<br>
 
-### nothing now 😐
+### nothing for now 😐
 
-<br>
 
 ## ⚙️ Technically superior project
 <br>
