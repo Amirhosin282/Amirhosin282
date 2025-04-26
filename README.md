@@ -26,7 +26,8 @@ introduce()
 
 ## 🚀 Featured Projects
 <br>
-### Wnothing now 😐
+
+### nothing now 😐
 
 ## ⚙️ Technically superior project
 <br>
