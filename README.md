@@ -6,7 +6,7 @@
 
 # 💻 Hi, I'm Amirhossein
 
-**Python Developer** | **Windows App Developer** | **Backend Enthusiast** | **Advanced Python Scriptor**
+**Python Developer** | **Windows App Developer** | **Interested in backend development** | **Advanced Python Scriptor**
 
 ```python
 def introduce():
