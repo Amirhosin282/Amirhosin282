@@ -26,7 +26,7 @@ introduce()
 
 ## 🚀 Featured Projects
 
-### nothing for now 😐
+### An Instagram bot, coming soon 🤖
 
 
 ## ⚙️ Technically superior project (In my opinion)
