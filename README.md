@@ -26,7 +26,40 @@ introduce()
 
 ## 🚀 Featured Projects
 
-### An Instagram bot, coming soon 🤖🤖
+## An Instagram bot, coming soon 🤖🤖
+
+## 🚀 Open Collaboration Invitation – Learning-Focused Development Project
+
+Hello!
+
+I’m currently developing an experimental project with a small team, focused on building real-world skills through collaborative development. This is a **non-commercial, volunteer-based** initiative, primarily aimed at **gaining hands-on experience**, improving teamwork, and practicing with real tools and workflows.
+
+### 🧠 About the Project
+
+We’re building a cross-platform application (CLI, desktop GUI, and Android) that simulates a social growth environment through a points-based system. Users interact with a database and each other to complete tasks and earn rewards.
+
+We already have some initial code, but there's a lot of room for improvement and contribution in both design and implementation.
+
+### 💼 We’re Looking For Collaborators With Interest In:
+
+- Backend development (Flask / FastAPI)
+- Database design and integration (PostgreSQL / SQLite)
+- Android app development (Java / Kotlin)
+- API design and client-server communication
+- Git/GitHub workflows (PRs, issues, branches)
+
+### 🎯 Why Join?
+
+- Collaborate with a real team (code reviews, version control, task distribution)
+- Work on a multi-layered project with real architectural needs
+- Gain experience for your portfolio or resume
+- Learn by doing — in a friendly and productive environment
+
+If you’re interested in joining us, feel free to **send me a message** or leave a comment and I’ll get in touch.
+
+Thanks for your time,  
+**A.Asadpur**
+
 
 
 ## ⚙️ Technically superior project (In my opinion)
