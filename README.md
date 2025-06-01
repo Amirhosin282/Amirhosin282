@@ -78,9 +78,9 @@ Thanks for your time,
 ### Web Automation Techniques
 
 
-## 💖 Support My Side Projects
+## 💖 Donation (Available to Iranian Supporters Only)
 
-If you find my work useful or interesting, consider supporting me to help build even more cool tools and open-source experiments.
+If you're based in Iran and would like to support my work, you can donate via the following link. Your support means a lot and helps me continue building cool and useful stuff!
 
 <a href="https://www.coffeebede.com/amirhosin282"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
 
