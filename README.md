@@ -82,7 +82,7 @@ Thanks for your time,
 
 If you're based in Iran and would like to support my work, you can donate via the following link. Your support means a lot and helps me continue building cool and useful stuff!
 
-<a href="https://www.coffeebede.com/amirhosin282"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+<a href="https://www.coffeebede.com/amirhosin282"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" ></a>
 
 
 ## 📫 How to Reach Me
