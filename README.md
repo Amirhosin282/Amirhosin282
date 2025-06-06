@@ -26,6 +26,10 @@ introduce()
 
 ## 🚀 Featured Projects
 
+<a href = 'https://github.com/Amirhosin282/SFupdater'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=Dtire&amp;theme=dark&amp;show_owner=true" alt="SFupdater" - Advanced Directory Scanner"> <a>
+
+## and
+
 ### An Instagram bot, coming soon 🤖🤖
 
 ### 🤝 Open Collaboration Invitation – Learning-Focused Development Project
