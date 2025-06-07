@@ -26,6 +26,7 @@ introduce()
 
 ## Last project 💻
 <a href = 'https://github.com/Amirhosin282/SFupdater'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=SFupdater&amp;theme=dark&amp;show_owner=true" alt="SFupdater - Advanced Directory Scanner"> <a>
+
 <br>
 
 ## 🚀 Featured Projects
