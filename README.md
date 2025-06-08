@@ -83,11 +83,19 @@ Thanks for your time,
 ### Web Automation Techniques
 
 
-## 💖 Donation (Available to Iranian Supporters Only)
+## 💖 Donation 
 
 If you're based in Iran and would like to support my work, you can donate via the following link. Your support means a lot and helps me continue building cool and useful stuff!
 
 <a href="https://www.coffeebede.com/amirhosin282"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" ></a>
+
+### Cryptocurrency 🪙
+Ethereum :
+```
+ 0xbe9A92a7F99798C19e1931A66893423aD9272795
+```
+
+
 
 
 ## 📫 How to Reach Me
