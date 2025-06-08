@@ -94,6 +94,9 @@ If you're based in Iran and would like to support my work, you can donate via th
 
 
 #### Ethereum ₿:
+If you'd like to support me via cryptocurrency, you can send ETH to the following wallet address:
+
+<p> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum Logo"> </p>
 
 <div align="center">
   <img src="https://github.com/Amirhosin282/Amirhosin282/blob/main/Ether.png?raw=true" width="35%" alt="Ether">
@@ -103,6 +106,8 @@ If you're based in Iran and would like to support my work, you can donate via th
  0xbe9A92a7F99798C19e1931A66893423aD9272795
 ```
 <br>
+
+Your support helps me keep building and sharing useful projects. Thank you!
 
 
 ## 📫 How to Reach Me
