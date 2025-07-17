@@ -31,8 +31,6 @@ introduce()
 
 ## 🚀 Featured Projects
 
-
-https://github.com/Amirhosin282/account_miner?tab=readme-ov-file
 <a href = 'https://github.com/Amirhosin282/account_miner'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=account_miner&amp;theme=dark&amp;show_owner=true" alt="instagram accoount miner - Instagram account builder"> <a>
 
 
