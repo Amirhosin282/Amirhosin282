@@ -25,19 +25,21 @@ introduce()
 <a href = 'https://docs.djangoproject.com/en/5.2/'> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a> <a href = 'https://flask.palletsprojects.com/en/stable/'> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> </a> </p>
 
 ## Last project 💻
-<a href = 'https://github.com/Amirhosin282/SFupdater'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=SFupdater&amp;theme=dark&amp;show_owner=true" alt="SFupdater - Advanced Directory Scanner"> <a>
-
+<a href = 'https://github.com/Amirhosin282/account_miner'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=account_miner&amp;theme=dark&amp;show_owner=true" alt="instagram accoount miner - Instagram account builder"> <a>
 <br>
 
 ## 🚀 Featured Projects
-
-<a href = 'https://github.com/Amirhosin282/account_miner'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=account_miner&amp;theme=dark&amp;show_owner=true" alt="instagram accoount miner - Instagram account builder"> <a>
+### nothing for now :)
 
 
 
 
 ## ⚙️ Technically superior project (In my opinion)
 <a href = 'https://github.com/amirhosin282/Dtire'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=Dtire&amp;theme=dark&amp;show_owner=true" alt="Dtire - Government Tire Purchase Automation System"> <a>
+<br>
+
+## 🔧 And useful tool(s)
+<a href = 'https://github.com/Amirhosin282/SFupdater'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=SFupdater&amp;theme=dark&amp;show_owner=true" alt="SFupdater - Advanced Directory Scanner"> <a>
 <br>
 
 ## 📈 GitHub Stats
