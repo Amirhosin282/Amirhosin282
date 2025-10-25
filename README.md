@@ -69,7 +69,7 @@ If you're based in Iran and would like to support my work, you can donate via th
 If you'd like to support me via cryptocurrency, you can send USDT on Polygon(POL) network the following wallet address:
 
 <div align="center">
-  <img src="https://github.com/Amirhosin282/Amirhosin282/blob/main/Ether.png?raw=true" width="35%" alt="Ether">
+  <img src="https://github.com/Amirhosin282/Amirhosin282/blob/main/USDT.png?raw=true" width="35%" alt="Ether">
 </div>
 
 ```
