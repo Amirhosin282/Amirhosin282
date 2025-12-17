@@ -22,7 +22,7 @@ introduce()
  🌱 learinig 
 <br> 
 <br>
-<a href = 'https://docs.djangoproject.com/en/5.2/'> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a> <a href = 'https://flask.palletsprojects.com/en/stable/'> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> </a>  <a href="https://docs.telethon.dev/"><img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"></a> <a href="https://docs.pyrogram.org/"><img src="https://img.shields.io/badge/Pyrogram-1DA1F2?style=for-the-badge&logo=pyrogram&logoColor=white" alt="Pyrogram"></a></p>
+<a href = 'https://docs.djangoproject.com/en/5.2/'> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"> </a> <a href = 'https://flask.palletsprojects.com/en/stable/'> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"> </a>  <a href="https://docs.telethon.dev/"><img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"></a> <a href="https://docs.pyrogram.org/"><img src="https://img.shields.io/badge/Pyrogram-FF6A00?style=for-the-badge&logo=python&logoColor=white" alt="Pyrogram"></a></p>
 
 ## Last project 💻
 <a href = 'https://github.com/Amirhosin282/Uback'> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&amp;repo=Uback&amp;theme=dark&amp;show_owner=true" alt="uback - back up to your telegram"> <a>
