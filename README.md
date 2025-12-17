@@ -16,26 +16,26 @@ introduce()
 ## 🛠️ Technical Skills
 
 <p align="left">
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-  <a href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
-  <a href="https://docs.python.org/3/library/tkinter.html"><img src="https://img.shields.io/badge/Tkinter-EE4C2C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"></a>
-  <a href="https://doc.qt.io/qtforpython-6/"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"></a>
-  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://github.blog/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://docs.jupyter.org/en/latest/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
-  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
-  <a href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a>
-  <a href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="https://img.shields.io/badge/CMD-5D4EE2?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD"></a>
-  <a href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.selenium.dev/"><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.python.org/3/library/tkinter.html"><img src="https://img.shields.io/badge/Tkinter-EE4C2C?style=for-the-badge&logo=python&logoColor=white" alt="Tkinter"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://doc.qt.io/qtforpython-6/"><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.blog/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.jupyter.org/en/latest/"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/PowerShell"><img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Cmd.exe"><img src="https://img.shields.io/badge/CMD-5D4EE2?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CMD"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://en.wikipedia.org/wiki/Linux"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
 </p>
 
 ## 🌱 Currently Learning
 
 <p align="left">
-  <a href="https://docs.djangoproject.com/en/5.2/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-  <a href="https://flask.palletsprojects.com/en/stable/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
-  <a href="https://docs.telethon.dev/"><img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"></a>
-  <a href="https://docs.pyrogram.org/"><img src="https://img.shields.io/badge/Pyrogram-FF6A00?style=for-the-badge&logo=python&logoColor=white" alt="Pyrogram"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.djangoproject.com/en/5.2/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://flask.palletsprojects.com/en/stable/"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.telethon.dev/"><img src="https://img.shields.io/badge/Telethon-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telethon"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://docs.pyrogram.org/"><img src="https://img.shields.io/badge/Pyrogram-FF6A00?style=for-the-badge&logo=python&logoColor=white" alt="Pyrogram"></a>
 </p>
 
 ## 🚀 Featured Projects
@@ -44,7 +44,7 @@ introduce()
 
 ## ⚙️ Technically Superior Project (In My Opinion)
 
-<a href="https://github.com/amirhosin282/Dtire">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/amirhosin282/Dtire">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Dtire&theme=dark&show_owner=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Dtire&theme=default&show_owner=true" media="(prefers-color-scheme: light)" />
@@ -54,7 +54,7 @@ introduce()
 
 ## 🔧 Useful Tools
 
-<a href="https://github.com/Amirhosin282/Uback">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Amirhosin282/Uback">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Uback&theme=dark&show_owner=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Uback&theme=default&show_owner=true" media="(prefers-color-scheme: light)" />
@@ -62,7 +62,7 @@ introduce()
   </picture>
 </a>
 
-<a href="https://github.com/Amirhosin282/SFupdater">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/Amirhosin282/SFupdater">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=SFupdater&theme=dark&show_owner=true" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=SFupdater&theme=default&show_owner=true" media="(prefers-color-scheme: light)" />
@@ -78,7 +78,7 @@ introduce()
     <source srcset="https://github-readme-stats.vercel.app/api?username=Amirhosin282&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
     <img src="https://github-readme-stats.vercel.app/api?username=Amirhosin282&show_icons=true" alt="GitHub Stats" />
   </picture>
-
+  <br>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosin282&layout=compact&theme=radical" media="(prefers-color-scheme: dark)" />
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhosin282&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
@@ -89,7 +89,7 @@ introduce()
 ## 💖 Donation
 
 <div align="center">
-  <a href="https://www.coffeebede.com/amirhosin282"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Donate"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.coffeebede.com/amirhosin282"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Donate"></a>
 </div>
 
 ### 🪙 Cryptocurrency
@@ -105,10 +105,9 @@ introduce()
 ## 📫 How to Reach Me
 
 <p align="left">
-  <a href="https://wa.link/fns8px"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="mailto:amirhosinasdpwr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/amirhosein-asadpur-867a2827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/amirhosin_282"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://t.me/Amirhoseinasadpur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://wa.link/fns8px"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a target="_blank" rel="noopener noreferrer" href="mailto:amirhosinasdpwr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/amirhosein-asadpur-867a2827b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://instagram.com/amirhosin_282"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://t.me/Amirhoseinasadpur"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
-
