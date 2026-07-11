@@ -40,11 +40,11 @@ introduce()
 
 ## 🚀 Featured Projects
 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/amirhosin282/sortify">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/amirhosin282/harim">
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Sortify&theme=dark&show_owner=true" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Sortify&theme=default&show_owner=true" media="(prefers-color-scheme: light)" />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=Sortify&theme=default&show_owner=true" alt="Sortify — A simple file organizer written in Python" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=harim&theme=dark&show_owner=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=harim&theme=default&show_owner=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amirhosin282&repo=harim&theme=default&show_owner=true" alt="Harim - A public project aimed at preventing sexual extortion. " />
   </picture>
 </a>
 
